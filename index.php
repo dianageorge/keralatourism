@@ -15,26 +15,26 @@
 
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container-fluid">
-                  <a class="navbar-brand" href="aboutkerala.html">about kerala</a>
+                  <a class="navbar-brand" href="aboutkerala.php">about kerala</a>
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                   </button>
                   <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                       <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                        <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="book your stay.html">book your stay</a>
+                        <a class="nav-link" href="book your stay.php">book your stay</a>
                       </li>
                       <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                           Districts
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                          <li><a class="dropdown-item" href="alapuzha.html">Alappuzha</a></li>
-                          <li><a class="dropdown-item" href="kollam.html">kollam</a></li>
-                           <li><a class="dropdown-item" href="tvm.html">thirivanathapuram</a></li>
+                          <li><a class="dropdown-item" href="alapuzha.php">Alappuzha</a></li>
+                          <li><a class="dropdown-item" href="kollam.php">kollam</a></li>
+                           <li><a class="dropdown-item" href="tvm.php">thirivanathapuram</a></li>
                         </ul>
                       </li>
                       

@@ -20,26 +20,26 @@
     
              <nav class="navbar navbar-expand-lg navbar-light bg-light">
                  <div class="container-fluid">
-                   <a class="navbar-brand" href="aboutkerala.html">about kerala</a>
+                   <a class="navbar-brand" href="aboutkerala.php">about kerala</a>
                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                      <span class="navbar-toggler-icon"></span>
                    </button>
                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
                      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                        <li class="nav-item">
-                         <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                         <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                        </li>
                        <li class="nav-item">
-                         <a class="nav-link" href="book your stay.html">book your stay</a>
+                         <a class="nav-link" href="book your stay.php">book your stay</a>
                        </li>
                        <li class="nav-item dropdown">
                          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                            Districts
                          </a>
                          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                           <li><a class="dropdown-item" href="alapuzha.html">Alappuzha</a></li>
-                           <li><a class="dropdown-item" href="kollam.html">kollam</a></li>
-                            <li><a class="dropdown-item" href="tvm.html">thirivanathapuram</a></li>
+                           <li><a class="dropdown-item" href="alapuzha.php">Alappuzha</a></li>
+                           <li><a class="dropdown-item" href="kollam.php">kollam</a></li>
+                            <li><a class="dropdown-item" href="tvm.php">thirivanathapuram</a></li>
                          </ul>
                        </li>
                        
@@ -61,8 +61,8 @@
         <div class="row">
             <div class="col">
              <p>
-<h1>Thiruvananthapuram (IPA: [t̪iruʋənən̪t̪əpurəm] (About this soundlisten)), commonly known by its former name Trivandrum,[8] is the capital of the Indian state of Kerala. It is the most populous city in Kerala with a population of 957,730 as of 2011.[3] The encompassing urban agglomeration population is around 1.68 million.[5] Located on the west coast of India near the extreme south of the mainland, Thiruvananthapuram is a major information technology hub in Kerala and contributes 55% of the state's software exports as of 2016.[9][10] Referred to by Mahatma Gandhi as the "Evergreen city of India",[11][1] the city is characterised by its undulating terrain of low coastal hills.[12]
-            </h1>
+<h1>
+             Alappuzha (About this soundpronunciation (help·info)), also known by its former name Alleppey, is the administrative headquarters of Alappuzha District in the Indian State of Kerala. Alappuzha is a city and a municipality in Kerala with an urban population of 174,164[1] and ranks third among the districts in literacy rate in the State of Kerala. In 2016, the Centre for Science and Environment rated Alappuzha as the cleanest town in India.[2] Alappuzha is considered to be the oldest planned city in this region and the lighthouse built on the coast of the city is the first of its kind along the Laccadive Sea coast.[3]</h1>
             </p>  
             </div>
         </div>
@@ -70,33 +70,33 @@
 <div class="row">
     <div class="col">
         <div class="card" style="width: 18rem;">
-            <img src="tm1.jpg" class="card-img-top" alt="...">
+            <img src="alp1.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">image1</p>
-              <a href="tm1.jpg" class="btn btn-primary">view</a>
+              <a href="alp1.jpg" class="btn btn-primary">view</a>
             </div>
           </div>
     </div>
 
     <div class="col">
         <div class="card" style="width: 18rem;">
-            <img src="tm2.jpg" class="card-img-top" alt="...">
+            <img src="alp2.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">img2</p>
-              <a href="tm2.jpg" class="btn btn-primary">view</a>
+              <a href="alp2.jpg" class="btn btn-primary">view</a>
             </div>
           </div>
     </div>
 
 <div class="col">
         <div class="card" style="width: 18rem;">
-            <img src="tm3.jpg" class="card-img-top" alt="...">
+            <img src="alp3.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">img3</p>
-              <a href="tm3.jpg" class="btn btn-primary">view</a>
+              <a href="alp3.jpg" class="btn btn-primary">view</a>
             </div>
           </div>
     </div>
